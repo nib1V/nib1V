@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @nib1V
-- 👀 I’m an undergrad student at the University of Crete 
-- 🌱 I’m learning C, C++, Java, Python and the Assembly of RISC-V
+- I’m an undergrad student at the Computer Science Department of UOC
+- I have experience with C, C++, Java, Assembly(RISC-V) and Python
 - I'm all about computers whether it is complex or simple
+- My interests include Graphics and Game Development
 - Looking forward to posting new projects and ideas
-<!---
-Comments are great for developers like me, so use them "future me"
---->
